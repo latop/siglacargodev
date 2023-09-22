@@ -134864,13 +134864,13 @@ this.dx=s
 return s.m(0,0)&&!0},
 bd(a){},
 aKW(){var s,r,q,p=this,o=A.mf("Publicando Jornada")
-$.e()
+if(p.CW.gN().cV()){$.e()
 s=$.M().xr
 s=$.aW.ar$.z.i(0,s)
 s.toString
 r=t.z
 A.kA(null,!0,new A.aVy(o),s,null,!0,!0,r)
-if(p.CW.gN().cV()){q=A.ah()
+q=A.ah()
 p.db=A.aX(!0)
 q.pZ(0,"https://apicargodev.azurewebsites.net/Journey/PublishJourney?dtPublish="+B.h.I(J.l(p.ch),0,10)+"&LocationGroupId="+A.n(p.dy),r).t(new A.aVz(p,o),t.P)}}}
 A.aVv.prototype={
