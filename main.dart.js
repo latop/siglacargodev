@@ -137347,7 +137347,7 @@ l===$&&A.c()
 l=J.l(l.r)}else l=""
 k=$.a
 s=(k==null?$.a=B.b:k).j(0,j,s).ch
-s=A.o(A.b([f,n,A.t(A.b([m,A.h(A.aC(!1,j,A.aH(j,j,!0,j,j),j,!1,j,l,j,j,j,1,j,!1,new A.b3u(e),j,j,j,j,j,j,B.w,j,s),j,300)],q),B.k,B.d,B.c,B.j),A.h(j,j,10),A.t(A.b([A.j(A.d("FlgJourneyStopType"),j),new A.aM(new A.b3v(e),j)],q),B.k,B.d,B.c,B.j)],q),B.f,B.d,B.c,j)
+s=A.o(A.b([f,n,A.t(A.b([m,A.h(A.aC(!1,j,A.aH(j,j,!0,j,j),j,!1,j,l,j,j,j,1,j,!1,new A.b3u(e),j,j,j,j,j,j,B.w,j,s),j,110)],q),B.k,B.d,B.c,B.j),A.h(j,j,10),A.t(A.b([A.j(A.d("FlgJourneyStopType"),j),new A.aM(new A.b3v(e),j)],q),B.k,B.d,B.c,B.j)],q),B.f,B.d,B.c,j)
 l=A.h(j,10,j)
 m=$.ej()
 m=A.h(A.aQ(A.o(A.b([A.I(A.d("btt_save"),j,j,j,j,j,j,j,j)],q),B.f,B.M,B.c,j),new A.b3w(e),m),j,140)
