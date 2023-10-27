@@ -119535,7 +119535,7 @@ s=document.createEvent("Event")
 s.initEvent("usuarioDeslogado",!0,!0)
 r.dispatchEvent(s).toString
 $.e()
-if($.L().x1.i(0,"accessCode")==null)this.Ip().t(new A.amX(),t.z)}}
+if($.L().x1.i(0,"accessCode")==null&&$.ai==="")this.Ip().t(new A.amX(),t.z)}}
 A.amY.prototype={
 $0(){},
 $S:0}
